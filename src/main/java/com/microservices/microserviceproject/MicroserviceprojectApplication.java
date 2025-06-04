@@ -11,6 +11,6 @@ public class MicroserviceprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroserviceprojectApplication.class, args);
-	} 
+	}
 
 }
